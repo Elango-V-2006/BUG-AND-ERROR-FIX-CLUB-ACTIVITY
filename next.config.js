@@ -5,7 +5,7 @@ const nextConfig = {
   output: 'export',
   basePath: isProd ? '/club2' : '',
   images: {
-    unoptimized: true,
+    unoptimized: true,          
   },
 };
 
