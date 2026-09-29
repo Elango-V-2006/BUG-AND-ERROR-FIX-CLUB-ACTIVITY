@@ -13,7 +13,7 @@ interface CourseCardProps {
 export const CourseCard: React.FC<CourseCardProps> = ({ course }) => {
   return (
     <div className="group flex flex-col bg-slate-900 border border-slate-800 rounded-2xl overflow-hidden hover:border-violet-500/50 hover:shadow-xl hover:shadow-violet-500/10 transition-all duration-300">
-      {/* Thumbnail Container */}
+      {/* Thumbnail Container */}   
       <div className="relative h-48 w-full overflow-hidden bg-slate-950">
         <img
           src={course.image}
