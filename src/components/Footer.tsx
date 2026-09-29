@@ -22,7 +22,7 @@ export const Footer: React.FC = () => {
             <p className="text-sm text-slate-400 leading-relaxed">
               Empowering developers worldwide with practical courses, hands-on projects, and real-world tech challenges.
             </p>
-            <div className="flex items-center gap-3 pt-2">
+            <div className="flex items-center gap-3 pt-2"> 
               <a href="#" className="p-2 rounded-lg bg-slate-900 hover:bg-slate-800 hover:text-violet-400 transition">
                 <Twitter className="w-4 h-4" />
               </a>
