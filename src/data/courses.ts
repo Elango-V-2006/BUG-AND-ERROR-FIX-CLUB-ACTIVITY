@@ -21,7 +21,7 @@ export const COURSES: Course[] = [
       role: 'Principal Software Architect',
       avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=200&auto=format&fit=crop',
       bio: '12+ years of experience building modern web architectures at enterprise scale.',
-      rating: 4.9,
+      rating: 4.9,   
       students: 45000,
       coursesCount: 8
     },
